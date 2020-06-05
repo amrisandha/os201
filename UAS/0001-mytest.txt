@@ -1,0 +1,26 @@
+Script started on Fri 05 Jun 2020 11:36:16 AM WIB
+amrisandha.pranantya@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+amrisandha
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200605-113653-119e-UAS/>
+$ PS1="\$(eval \$PSTAMP)"
+200605-113701-ce12-UAS/> date
+Fri Jun  5 11:37:10 WIB 2020
+200605-113710-1c96-UAS/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/a/amrisandha.pranantya/.gnupg/pubring.gpg
+------------------------------------------------------------------
+pub   4096R/9FDC8FB6 2020-06-04
+uid       [ultimate] Amrisandha Pranantya Prasetyo (OS201 A 1806205400 amrisandha Amrisandha Pranantya Prasetyo) <amrisandha.prasetyo@gmail.com>
+sub   4096R/34F3EC5A 2020-06-04
+
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+200605-113720-f25b-UAS/> exit
+exit
+
+Script done on Fri 05 Jun 2020 11:37:28 AM WIB
