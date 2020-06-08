@@ -21,7 +21,7 @@ Berikut adalah fungsi sistem operasi selebihnya.
 Contoh sistem operasi modern adalah Linux, Android, iOS, Mac OS X, dan Microsoft Windows. 
 
 Sumber:
-1. [Apa itu Sistem Operasi] (https://medium.com/@DalihRusmana/apa-itu-sistem-operasi-5f212846271)
+1. [Apa itu Sistem Operasi](https://medium.com/@DalihRusmana/apa-itu-sistem-operasi-5f212846271)
 2. [Dasar-Dasar Komputer: Memahami Macam-Macam Sistem Operasi](https://edu.gcfglobal.org/en/tr_id-computer-basics/memahami-macammacam-sistem-operasi/1/)
 3. [Pengertian Sistem Operasi Komputer Beserta Contohnya](https://www.advernesia.com/blog/komputer/pengertian-sistem-operasi-komputer-beserta-contohnya/)
 
