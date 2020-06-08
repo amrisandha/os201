@@ -1,5 +1,4 @@
-permalink
-/URLs/
+permalink: /URLs/
 
 ## Seputar Sistem Operasi
 
