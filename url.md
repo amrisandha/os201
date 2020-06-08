@@ -26,6 +26,7 @@ Sumber:
 2. [Dasar-Dasar Komputer: Memahami Macam-Macam Sistem Operasi](https://edu.gcfglobal.org/en/tr_id-computer-basics/memahami-macammacam-sistem-operasi/1/)
 3. [Pengertian Sistem Operasi Komputer Beserta Contohnya](https://www.advernesia.com/blog/komputer/pengertian-sistem-operasi-komputer-beserta-contohnya/)
 
+
 ## Pranala Seputar Sistem Operasi
 Informasi lainnya berhubung dengan sistem operasi dapat dilihat pada pranala berikut.
 1. [Operating Systems - Sistem Operasi](https://os.vlsm.org/)
