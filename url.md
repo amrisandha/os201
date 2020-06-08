@@ -1,6 +1,5 @@
-layout: page
-title: "Seputar Sistem Operasi"
-permalink: /URLs/
+permalink
+/URLs/
 
 ## Seputar Sistem Operasi
 
