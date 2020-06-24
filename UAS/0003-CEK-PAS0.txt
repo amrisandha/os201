@@ -1,5 +1,5 @@
 Script started on Mon 08 Jun 2020 02:17:26 PM WIB
-amrisandha.pranantya@badak:~/UAS$ PS1="$ "
+]0;amrisandha.pranantya@badak: ~/UASamrisandha.pranantya@badak:~/UAS$ [K]0;amrisandha.pranantya@badak: ~/UASamrisandha.pranantya@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 amrisandha
 $ echo $PSTAMP
@@ -12,13 +12,13 @@ $ PS1="\$(eval \$PSTAMP)"
 0000-mypub.txt: OK
 0001-mytest.txt: OK
 0002-mytest.txt.asc: OK
-200608-141835-6d76-UAS/> gpg2 -sb -a SHA1SUM
+200608-141835-6d76-UAS/> gpg2 -sb -a SHA1SUM 
 
 You need a passphrase to unlock the secret key for
 user: "Amrisandha Pranantya Prasetyo (OS201 A 1806205400 amrisandha Amrisandha Pranantya Prasetyo) <amrisandha.prasetyo@gmail.com>"
 4096-bit RSA key, ID 9FDC8FB6, created 2020-06-04
 
-200608-141850-d260-UAS/> gpg2 --verify SHA1SUM.asc
+[?1049h[1;44r(B[m[4l[?7h[?1h=[39;49m[39;49m[H[2J(B[m[17;20H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B(B[m[18;20H(0[0mx(B[0m Please enter the passphrase to unlock the secret key for the OpenPGP certificate:[18;149H(0[0mx(B(B[m[19;20H(0[0mx(B[0m "Amrisandha Pranantya Prasetyo (OS201 A 1806205400 amrisandha Amrisandha Pranantya Prasetyo) <amrisandha.prasetyo@gmail.com>"  (0[0mx(B(B[m[20;20H(0[0mx(B[0m 4096-bit RSA key, ID 9FDC8FB6,[20;149H(0[0mx(B(B[m[21;20H(0[0mx(B[0m created 2020-06-04.[21;149H(0[0mx(B(B[m[22;20H(0[0mx(B(B[m[22;149H(0[0mx(B(B[m[23;20H(0[0mx(B(B[m[23;149H(0[0mx(B(B[m[24;20H(0[0mx(B[0m Passphrase ___________________________________________________________________________________________________________________ (0[0mx(B(B[m[25;20H(0[0mx(B(B[m[25;149H(0[0mx(B(B[m[26;20H(0[0mx(B(B[m[26;41H(0[0m(B[0m<OK>[26;123H<Cancel>[26;149H(0[0mx(B(B[m[27;20H(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B(B[m[24;33H(0[0m(B(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m[44;1H[?1049l[?1l>200608-141850-d260-UAS/> gpg2 --verify SHA1SUM.asc 
 gpg: assuming signed data in 'SHA1SUM'
 gpg: Signature made Mon 08 Jun 2020 02:18:50 PM WIB using RSA key ID 9FDC8FB6
 gpg: Good signature from "Amrisandha Pranantya Prasetyo (OS201 A 1806205400 amrisandha Amrisandha Pranantya Prasetyo) <amrisandha.prasetyo@gmail.com>" [ultimate]
