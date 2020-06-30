@@ -1,0 +1,37 @@
+Script started on Mon 08 Jun 2020 08:19:32 PM WIB
+]0;amrisandha.pranantya@badak: ~/UASamrisandha.pranantya@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+amrisandha
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-201955-ee4b-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-202001-f291-UAS/> echo -e $CEKSAYA
+amrisandha ZCZCSCRIPTSTART 200605-113616 amrisandha 
+ amrisandha amrisandha 200605-113653-119e-UAS/ 200605-113653 SEQOK SUMOK 119e4f62 
+ amrisandha amrisandha 200605-113701-ce12-UAS/ 200605-113701 SEQOK SUMOK ce12b275 
+ amrisandha amrisandha 200605-113710-1c96-UAS/ 200605-113710 SEQOK SUMOK 1c9627f6 
+ amrisandha amrisandha 200605-113720-f25b-UAS/ 200605-113720 SEQOK SUMOK f25be399 
+ amrisandha ZCZCSCRIPTSTOP 200605-113728 SEQOK 
+
+200608-202006-ecf5-UAS/> echo -e $CEKSEBELA1
+amrisandha ZCZCSCRIPTSTART 200531-141907 andhikayusup 
+ amrisandha andhikayusup 200531-141953-f16d-andhika.yusup/ 200531-141953 SEQOK SUMOK f16dd616 
+ amrisandha andhikayusup 200531-142001-15c3-andhika.yusup/ 200531-142001 SEQOK SUMOK 15c35e73 
+ amrisandha andhikayusup 200531-142008-9f7f-andhika.yusup/ 200531-142008 SEQOK SUMOK 9f7f49af 
+ amrisandha andhikayusup 200531-142022-c8f5-andhika.yusup/ 200531-142022 SEQOK SUMOK c8f5a36f 
+ amrisandha ZCZCSCRIPTSTOP 200531-142030 SEQOK 
+
+200608-202013-8f15-UAS/> echo -e $CEKSEBELA2
+amrisandha ZCZCSCRIPTSTART 200604-200156 AndiALH 
+ amrisandha AndiALH 200604-200313-4703-abdurrahman.luqmanul/ 200604-200313 SEQOK SUMOK 470333d5 
+ amrisandha AndiALH 200604-200320-1bf4-abdurrahman.luqmanul/ 200604-200320 SEQOK SUMOK 1bf42e5c 
+ amrisandha AndiALH 200604-200341-76dc-abdurrahman.luqmanul/ 200604-200341 SEQOK SUMOK 76dc5f86 
+ amrisandha AndiALH 200604-200350-8bbb-abdurrahman.luqmanul/ 200604-200350 SEQOK SUMOK 8bbb197c 
+ amrisandha ZCZCSCRIPTSTOP 200604-200409 SEQOK 
+
+200608-202018-1198-UAS/> exit
+exit
+
+Script done on Mon 08 Jun 2020 08:20:23 PM WIB
